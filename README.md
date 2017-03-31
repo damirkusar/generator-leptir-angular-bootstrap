@@ -1,5 +1,5 @@
 
-# DEPRECATED - NOT UNDER DEVELOPMENT ANYMORE
+# DEPRECATED - NOT UNDER DEVELOPMENT ANYMORE 
 
 ## Leptir - the yeoman-generator for professional AngularJS apps
 
